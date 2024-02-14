@@ -46,3 +46,4 @@ const undef = (num1 = 1, num2) => {
     return undefined;
 };
 //////////////////////////////////////////////////
+//# sourceMappingURL=index.js.map
