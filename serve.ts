@@ -1,3 +1,4 @@
 const provaa = (x: string, y: string = "ciao"): void => {
-  console.log("CIAOOOOOOOOOOOO");
+  console.log("CIAO");
 };
+console.log("EIIIII");

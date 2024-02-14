@@ -1,4 +1,5 @@
 "use strict";
 const provaa = (x, y = "ciao") => {
-    console.log("CIAOOOOOOOOOOOO");
+    console.log("CIAO");
 };
+console.log("EIIIII");
